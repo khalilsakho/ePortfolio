@@ -14,8 +14,8 @@ June 2024 – Current
 *Data Analyst Intern | Graduate Assistant, Accountability Research & Evaluation*\
 August 2024 – May 2025
 
-- United States Agency for International Development, Washington, DC – Remote\	
- *Pathways Intern, Research Impact & Learning ITR/R*\
+- United States Agency for International Development, Washington, DC – Remote\ 	
+*Pathways Intern, Research Impact & Learning ITR/R*\
 June 2024 – August 2024
 
 - American Airlines, Fort Worth, TX\
