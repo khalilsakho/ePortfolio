@@ -1,5 +1,5 @@
 # Economist
-## [Linkedin](https://www.linkedin.com/in/khalilsakho)| Resume
+## [Linkedin](https://www.linkedin.com/in/khalilsakho)
 
 ### Projects
 - Using R Studio - Link
