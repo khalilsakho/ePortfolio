@@ -1,8 +1,8 @@
 # Economist
 
 ### Education
-MA in Applied Economics - University of North Carolina at Greensboro
-BA in Economics - University of North Carolina at Greensboro
+- MA in Applied Economics - University of North Carolina at Greensboro
+- BA in Economics - University of North Carolina at Greensboro
 
 ### Work Experience
 
