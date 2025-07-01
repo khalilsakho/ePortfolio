@@ -1,5 +1,4 @@
 # Economist
-## Linkedin
 
 ### Education
 - MA in Applied Economics - University of North Carolina at Greensboro
@@ -16,7 +15,7 @@ June 2024 – Current
 August 2024 – May 2025
 
 - United States Agency for International Development, Washington, DC – Remote\	
-*Pathways Intern, Research Impact & Learning ITR/R*\
+ *Pathways Intern, Research Impact & Learning ITR/R*\
 June 2024 – August 2024
 
 - American Airlines, Fort Worth, TX\
