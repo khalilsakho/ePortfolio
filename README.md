@@ -7,19 +7,19 @@
 ### Work Experience
 
 - Fidelity Investments, Fort Worth, TX\
-Senior Representative, Brokerage Operations\
+*Senior Representative, Brokerage Operations*\
 June 2024 – Current
 
 - Guildford County Schools, Greensboro, NC – Remote\
-Data Analyst Intern | Graduate Assistant, Accountability Research & Evaluation\
+*Data Analyst Intern | Graduate Assistant, Accountability Research & Evaluation*\
 August 2024 – May 2025
 
 - United States Agency for International Development, Washington, DC – Remote\	
-Pathways Intern, Research Impact & Learning ITR/R\
+*Pathways Intern, Research Impact & Learning ITR/R*\
 June 2024 – August 2024
 
 - American Airlines, Fort Worth, TX\
-Revenue Management Intern, Domestic Pricing\
+*Revenue Management Intern, Domestic Pricing*\
 August 2023 – December 2023
 
 ### Professional Skills
