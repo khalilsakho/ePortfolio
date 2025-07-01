@@ -1,4 +1,11 @@
 # Economist
+## [Linkedin](www.linkedin.com/in/khalilsakho) ## Resume
+
+### Projects
+- Using R Studio - Link
+- Using SAS on demand - Link
+- Using Python - Link
+- Using SQL - Link
 
 ### Education
 - MA in Applied Economics - University of North Carolina at Greensboro
@@ -25,13 +32,6 @@ August 2023 – December 2023
 ### Professional Skills
 - ARMIA Modeling, Time Series Analysis, Demand Forecasting, Econometrics, Linear Regression, Logistic Regression, K-Nearest Neighbors, Naïve Bayes Modeling, Perceptron Modeling, Decision Trees, Risk Modeling, Decision Modeling, Predictive Modeling
 •	Computer Skills: SAS, R, Python, PowerBI, Tableau, Excel, Github
-
-
-### Projects
-- Using R Studio - Link
-- Using SAS on demand - Link
-- Using Python - Link
-- Using SQL - Link
 
   
 ### Certificates
