@@ -1,11 +1,11 @@
 # Economist
-## [Linkedin](https://www.linkedin.com/in/khalilsakho)
+## [Linkedin](https://www.linkedin.com/in/khalilsakho) | [Resume](https://khalilsakho.github.io/ePortfolio/resume)
 
 ### Projects
-- Using R Studio - Link
-- Using SAS on demand - Link
-- Using Python - Link
-- Using SQL - Link
+- Using R Studio - [Link](https://khalilsakho.github.io/ePortfolio/rstudioprojects)
+- Using SAS on demand - [Link](https://khalilsakho.github.io/ePortfolio/sasprojects)
+- Using Python - [Link](https://khalilsakho.github.io/ePortfolio/pythonprojects)
+- Using SQL - [Link](https://khalilsakho.github.io/ePortfolio/sqlprojects)
 
 ### Education
 - MA in Applied Economics - University of North Carolina at Greensboro
