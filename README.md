@@ -40,3 +40,7 @@ August 2023 – December 2023
 - IBM Data Science Professional Certificate (Coursera)
 - Data Science in Python Certificate Program (DATAQUEST)
 - Quantitative Business Economics (UNC Greensboro)
+
+### Publications
+- [Transforming the School-to-Prison Pipeline to the School-to-Career Pipeline](https://www.mentoring.org/wp-content/uploads/2020/07/Khalil-Sakho-Final-Policy-Memo.pdf)\
+  *MENTOR: The National Mentoring Partnership, 2022*
