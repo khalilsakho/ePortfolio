@@ -62,7 +62,7 @@ set e625data.cps_raw_sample;
    label Other = "Other = 1 if the person is of another race and is not Hispanic";
    label Hispanic = "hispanic = 1 if the person is Hispanic regardless of race";
 RUN;
-
+```
 
   - *Create Citizenship & Marital Status Variables*
 ```sas
