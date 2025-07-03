@@ -228,6 +228,7 @@ RUN;
   - `hhfile` and `unit6` merged by `hhid` to create `TEMP`, which included geographic regional identifiers.
   - Regions (`south`, `northeast`, `midwest`, `west`) were derived from the `GEREG` variable.
   - Median earned income was calculated at the **state level** (`gestfips`) using `PROC MEANS`, and merged into the dataset as `median_income`.
+
 ```sas
 PROC SORT DATA=e625data.cps_hh_file out=hhfile; 
 BY hhid; 
@@ -285,6 +286,7 @@ BY PERIDNUM;
 
 RUN; 
 ```
+
 ---
 
 ### 🧮 Final Dataset Construction
