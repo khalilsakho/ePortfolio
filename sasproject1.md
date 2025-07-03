@@ -1,4 +1,4 @@
-# [SAS Project - Impact of Demographic Factors on Earned Income](https://khalilsakho.github.io/SASproject1)
+# SAS Project - Impact of Demographic Factors on Earned Income
 
 
 ## 📚 Table of Contents
