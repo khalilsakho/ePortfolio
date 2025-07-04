@@ -1,6 +1,7 @@
 ### SAS Projects
 
 ## Impact of Demographic Factors on Earned Income: A Statistical Analysis Using SAS Programming
+*M.A in Applied Economics Program @ UNC Greensboro*\
 *[Project Link](https://khalilsakho.github.io/ePortfolio/sasproject1)*\
 This project involved conducting regression analysis and visualizations using SAS programming techniques (including PROC statements, variable creation, etc.) to explore the influence of various demographic factors (such as race, region, citizenship, marital status, and gender) on earned income, with a primary focus on educational attainment. The dataset utilized was sourced from the US Census Current Population Survey 2019 Annual Social and Economic (ASEC) Supplement.
 
