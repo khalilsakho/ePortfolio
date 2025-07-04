@@ -1,4 +1,4 @@
-# SAS Project - Impact of Demographic Factors on Earned Income
+# SAS Project 1 - Impact of Demographic Factors on Earned Income
 
 
 ## 📚 Table of Contents
