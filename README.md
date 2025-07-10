@@ -1,7 +1,7 @@
 # Economist
 ## [Linkedin](https://www.linkedin.com/in/khalilsakho) | [Resume](https://khalilsakho.github.io/ePortfolio/resume)
 
-### Projects
+### Projects [In Progress]
 - Using R Studio - [Link](https://khalilsakho.github.io/ePortfolio/rstudioprojects)
 - Using SAS on demand - [Link](https://khalilsakho.github.io/ePortfolio/sasprojects)
 - Using Python - [Link](https://khalilsakho.github.io/ePortfolio/pythonprojects)
@@ -35,10 +35,10 @@ August 2023 – December 2023
 
   
 ### Certificates
-- Machine Learning Certificate (eCornell)
-- Data Science Essentials Certificate (eCornell)
-- IBM Data Science Professional Certificate (Coursera)
-- Data Science in Python Certificate Program (DATAQUEST)
+- Machine Learning Certificate (eCornell) [In Progress]
+- [Data Science Essentials Certificate](https://mycredentials.ecornell.cornell.edu/credential/XlRfwHbSAl) (eCornell)
+- IBM Data Science Professional Certificate (Coursera) [In Progress]
+- Data Science in Python Certificate Program (DATAQUEST) [In Progress]
 - Quantitative Business Economics (UNC Greensboro)
 
 ### Publications
