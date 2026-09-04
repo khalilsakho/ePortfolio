@@ -13,9 +13,13 @@
 
 ### Work Experience
 
+- Raymond James & Associates, St. Petersburgh, FL - Traveling Role\
+*Traveling Transition Consultant, Transitions Management*\
+December 2025 – September 2026
+
 - Fidelity Investments, Fort Worth, TX\
 *Senior Representative, Brokerage Operations*\
-June 2024 – Current
+June 2024 – December 2025
 
 - Guildford County Schools, Greensboro, NC – Remote\
 *Data Analyst Intern | Graduate Assistant, Accountability Research & Evaluation*\
@@ -35,12 +39,10 @@ August 2023 – December 2023
 
   
 ### Certificates
-- Machine Learning Certificate (eCornell) [In Progress]
+- [Machine Learning Certificate](https://mycredentials.ecornell.cornell.edu/credential/jZoBrCEcbd) (eCornell) 
 - [Data Science Essentials Certificate](https://mycredentials.ecornell.cornell.edu/credential/XlRfwHbSAl) (eCornell)
 - IBM Data Science Professional Certificate (Coursera) [In Progress]
 - Data Science in Python Certificate Program (DATAQUEST) [In Progress]
 - Quantitative Business Economics (UNC Greensboro)
-
-### Publications
-- [Transforming the School-to-Prison Pipeline to the School-to-Career Pipeline](https://www.mentoring.org/wp-content/uploads/2020/07/Khalil-Sakho-Final-Policy-Memo.pdf)\
-  *MENTOR: The National Mentoring Partnership, 2022*
+- Financial Planning & Analysis Professional (FPAP - Corporate Finance Institute) [In Progress]
+- BI & Data Analyst (BIDA - Corporate Finance Institute) [In Progress]
